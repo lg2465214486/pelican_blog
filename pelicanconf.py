@@ -57,7 +57,7 @@ EXTRA_PATH_METADATA = {
 LINKS = (
     ("Pelican官方文档", "https://getpelican.com/"),
     ("Python官网", "https://www.python.org/"),
-    ("Jinja2模板引擎", "https://palletsprojects.com/p/jinja/"),
+    ("本站源码", "https://github.com/lg2465214486/pelican_blog"),
 )
 
 # 社交媒体链接

@@ -4,6 +4,7 @@ Modified: 2025-09-03 10:20
 Author: shiyi
 tags: 工具,源码,干货
 keywords: 某音App视频信息抓取
+summary: 前几天，我接了个小项目，需要批量分析某音上的热门视频。我的第一反应当然是写个爬虫脚本，直接请求接口。然而，理想很丰满，现实很骨感——某音的反爬机制比我想象的还要严密，逆向的过程艰难无比，各种js加载器、循环跳转、动态生成的加密签名参数....
 lang: zh
 status: published
 Slug: crawler-douyin-web
@@ -25,7 +26,7 @@ url: crawler-douyin-web
 
 &emsp;&emsp;如下图，通过浏览器的开发者工具，在阅读完所有主要的网络请求后，我们发现其页面上的视频，图片，推文和博主信息都在一个名为 `v1/web/aweme/detail`的接口当中
 
-[![图1]({static}/images/crawler-douyin-web/1.png){: width="100%"}]({static}/images/crawler-douyin-web/1.png){: data-lightbox="gallery" .lightbox-image }
+[![图1]({static}/images/crawler-douyin-web/1.png){: width="50%"}]({static}/images/crawler-douyin-web/1.png){: data-lightbox="gallery" .lightbox-image }
 
 
 <br>
@@ -175,3 +176,16 @@ if __name__ == '__main__':
 [![图3]({static}/images/crawler-douyin-web/3.png){: width="100%"}]({static}/images/crawler-douyin-web/3.png){: data-lightbox="gallery" .lightbox-image }
 
 json里面的内容，根据需要自行提取
+
+<br>
+
+<br>
+
+### 免责声明
+
+> **本文为技术研究目的撰写，仅供学习交流。**
+
+1.  **内容时效性**： 技术信息具有时效性，本文内容发布后可能已过时，请自行验证。
+2.  **使用风险自担**： 应用本文所述方法所产生的一切直接或间接后果，均由使用者自行承担。
+3.  **合法合规使用**： **严禁**将本文内容用于任何违反法律法规或侵害他人权益的用途（如未经授权的爬虫、网络攻击、数据窃取等）。
+4.  **版权声明**： 本文为原创内容，转载需注明出处。文中引用的第三方资源，其版权归原作者所有。
