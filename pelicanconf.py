@@ -63,8 +63,8 @@ LINKS = (
 # 社交媒体链接
 SOCIAL = (
     ("GitHub", "https://github.com/lg2465214486"),
-    ("Twitter", "https://twitter.com/yourusername"),
-    ("知乎", "https://www.zhihu.com/people/yourusername"),
+    ("QQ:2465214486", ""),
+    ("Email:2465214486@qq.com", ""),
 )
 
 # URL 设置
