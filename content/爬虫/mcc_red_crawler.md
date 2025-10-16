@@ -1,8 +1,8 @@
-Title: Red星火&蒲公英参数解密
+Title: 小红书星火&蒲公英参数解密
 Date: 2025-02-03 10:20
 Modified: 2025-09-03 10:20
 Author: shiyi
-tags: 源码,干货
+tags: 源码,逆向
 keywords: 逆向星火&蒲公英平台X-S参数和X-S-Common参数
 summary: 逆向星火&蒲公英平台X-S参数和X-S-Common参数
 lang: zh

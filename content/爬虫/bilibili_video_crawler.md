@@ -1,10 +1,10 @@
-Title: 某b站视频无水印下载
+Title: b站视频无水印下载
 Date: 2025-02-03 10:20
 Modified: 2025-09-03 10:20
 Author: shiyi
 tags: 源码,干货
-keywords: 某b站视频无水印下载python源码
-summary: 某b站视频无水印下载python源码，可获取博主账号、昵称、主页链接、内容、发布时间、视频时长
+keywords: b站视频无水印下载python源码
+summary: b站视频无水印下载python源码，可获取博主账号、昵称、主页链接、内容、发布时间、视频时长
 lang: zh
 status: published
 Slug: bilibili_video_crawler
@@ -12,11 +12,11 @@ url: bilibili_video_crawler
 
 <br>
 
-**某b站视频无水印下载python源码**
+**b站视频无水印下载python源码**
 
 可获取博主账号、昵称、主页链接、内容、发布时间、视频时长
 
-因为b站的视频和声音是分开存储的，所以需要用到 `moviepy` 进行视频合成，对执行机器要有一定的配置这会直接影响合成的速度
+因为b站的视频和声音是分开存储的，所以需要用到 `moviepy` 进行视频合成，对执行机器要有一定的要求，配置好的合成的速度更快
 
 
 执行完后会在当执行的目录下生成一个`bilibili_static`的文件夹
