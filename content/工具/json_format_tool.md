@@ -17,9 +17,9 @@ url: json_format_tool
 
 [![图1]({static}/images/json_format_tool/1.png){: width="50%"}]({static}/images/json_format_tool/1.png){: data-lightbox="gallery" .lightbox-image }
 
-下载地址：
+软件下载地址：
 
-[大Json文件格式化工具]({static}/images/json_format_tool/大Json文件格式化工具.exe)
+[大Json文件格式化工具.exe]({static}/images/json_format_tool/大Json文件格式化工具.exe)
 
 [github源码地址](https://github.com/lg2465214486/tools/blob/main/python/tools/json_format_tool.py)
 

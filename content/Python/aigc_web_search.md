@@ -16,6 +16,8 @@ url: aigc_web_search
 
 本文主要讲述如何使用deepseek为基础模型，调用百度搜索api实现，利用python的aigc框架 `langchain` ，编排提示词链实现深度网搜的全过程。
 
+[langchain中文文档网站](https://python.langchain.com.cn/)
+
 流程图如下：
 
 [![图1]({static}/images/aigc_web_search/1.png){: width="70%"}]({static}/images/aigc_web_search/1.png){: data-lightbox="gallery" .lightbox-image }

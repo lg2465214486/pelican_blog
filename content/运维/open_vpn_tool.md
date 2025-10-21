@@ -18,7 +18,6 @@ url: open_vpn_tool
 
 `sudo yum update -y`
 
-![](centos7部署openvpn.files/centos7部署openvpn43.png)  
 
 ### 步骤 2：安装EPEL仓库和OpenVPN
 
@@ -27,8 +26,6 @@ EPEL （Extra Packages for Enterprise Linux）提供了额外的软件包，包�
 `sudo yum install -y epel-release`
 
 `sudo yum install -y openvpn easy-rsa`
-
-![](centos7部署openvpn.files/centos7部署openvpn198.png) 
 
  
 
