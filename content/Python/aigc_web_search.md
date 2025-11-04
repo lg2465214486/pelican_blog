@@ -1,6 +1,6 @@
 Title: deepseek实现深度网搜
-Date: 2025-10-15 17:00
-Modified: 2025-10-15 17:00
+Date: 2025-09-15 17:00
+Modified: 2025-09-15 17:00
 Author: shiyi
 tags: 源码,aigc
 keywords: 以deepseek为基本模型，利用langchain构建提示词链实现以工作流形式分析搜索回答用户提问。
